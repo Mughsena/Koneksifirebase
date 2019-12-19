@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "168184947139",
+    "firebase_url": "https://koneksidatabase-56daa.firebaseio.com",
+    "project_id": "koneksidatabase-56daa",
+    "storage_bucket": "koneksidatabase-56daa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168184947139:android:1a91811f50bd98010c9d76",
+        "android_client_info": {
+          "package_name": "com.dhanang.koneksidatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168184947139-v0u947rpp7jktu8hq13r18hrsr14h6au.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhanang.koneksidatabase",
+            "certificate_hash": "52e5bf8c36827aaf4f92ac6903688eb38cb26359"
+          }
+        },
+        {
+          "client_id": "168184947139-4tpqcqvsadnpar1fho8f8jcuco94018q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVgpgfCpld8KsNlrjKjzYwxixPyeP95nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168184947139-4tpqcqvsadnpar1fho8f8jcuco94018q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
